@@ -1,0 +1,5 @@
+export { Transform, IPosition, IScale } from './transform'
+export { Renderer } from './renderer'
+export { PhysicsObject2D } from './physics-object-2d'
+export { Collider } from './collider'
+export { Tag } from './tag'

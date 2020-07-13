@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"outDir": "dist",
+		"target": "ES6",
+    "module": "commonjs",
+    "lib": ["es2017", "es7", "es6", "dom"],
+		"sourceMap": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"downlevelIteration": true,
+		"removeComments": true,
+		"noImplicitAny": false,
+		"allowJs": true,
+		"strict": true,
+		"strictPropertyInitialization": false,
+		"allowSyntheticDefaultImports": true,
+	},
+	"include": [
+    "src"
+  ]
+}
